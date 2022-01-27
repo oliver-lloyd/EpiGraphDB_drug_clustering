@@ -1,5 +1,5 @@
 # EpiGraphDB Drug Clustering Data
-This repo contains scripts and data to extract a multipartite graph from EpiGraphDB to be embedded and clustered. ]
+This repo contains scripts and data to extract a multipartite graph from EpiGraphDB to be embedded and clustered.
 
 To recreate the data from raw:
 
