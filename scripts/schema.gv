@@ -1,0 +1,15 @@
+digraph G {
+    drug [ style=filled, fillcolor=red ];
+    gene, protein [ style=filled, fillcolor=lightblue ];
+    disease [ style=filled, fillcolor=green ];
+    pathway [ style=filled, fillcolor=purple ];
+    variant [ style=filled, fillcolor=grey ];
+
+    drug -> disease [ label="OpenTargets" ];
+    drug -> gene [ label="OpenTargets" ];
+    drug -> protein [ label="OpenTargets" ];
+    gene -> disease [ label="ClinVar" ];
+    gene -> protein [ label="BioMart" ];
+    protein -> pathway [ label="Reactome" ];
+    variant -> gene [ label="VEP" ];
+}

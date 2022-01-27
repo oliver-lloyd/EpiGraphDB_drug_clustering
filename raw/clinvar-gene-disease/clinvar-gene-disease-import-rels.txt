@@ -1,0 +1,1 @@
+--relationships=GENE_TO_DISEASE="import/rels/gene-clinvar-disease-mondo/gene-clinvar-disease-mondo.header,import/rels/gene-clinvar-disease-mondo/gene-clinvar-disease-mondo.csv.gz"

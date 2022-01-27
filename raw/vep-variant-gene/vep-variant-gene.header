@@ -1,0 +1,1 @@
+:START_ID(Variant-ID),location:string,allele:string,:END_ID(Gene-ID),feature:string,feature_type:string,consequence:string,cdna_position:string,cds_position:string,protein_position:string,amino_acids:string,codons:string,existing_variation:string,extra:string,_source:string[]

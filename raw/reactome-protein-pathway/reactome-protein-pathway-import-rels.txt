@@ -1,0 +1,1 @@
+--relationships=PROTEIN_IN_PATHWAY="import/rels/reactome-protein-pathway/reactome-protein-pathway.header,import/rels/reactome-protein-pathway/reactome-protein-pathway.csv.gz"

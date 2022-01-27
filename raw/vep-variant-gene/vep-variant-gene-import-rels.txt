@@ -1,0 +1,1 @@
+--relationships=VARIANT_TO_GENE="import/rels/vep-variant-gene/vep-variant-gene.header,import/rels/vep-variant-gene/vep-variant-gene.csv.gz"

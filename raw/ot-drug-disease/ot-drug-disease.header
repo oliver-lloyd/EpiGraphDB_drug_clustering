@@ -1,0 +1,1 @@
+:START_ID(Drug-ID),:END_ID(Disease-ID),_source:string[]

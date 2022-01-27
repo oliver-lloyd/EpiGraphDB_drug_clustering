@@ -1,0 +1,1 @@
+:START_ID(Drug-ID),:END_ID(Gene-ID),action_type:string,phase:string,_source:string[]

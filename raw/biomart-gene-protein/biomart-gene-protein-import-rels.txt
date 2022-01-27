@@ -1,0 +1,1 @@
+--relationships=GENE_TO_PROTEIN="import/rels/biomart-gene-protein/biomart-gene-protein.header,import/rels/biomart-gene-protein/biomart-gene-protein.csv.gz"

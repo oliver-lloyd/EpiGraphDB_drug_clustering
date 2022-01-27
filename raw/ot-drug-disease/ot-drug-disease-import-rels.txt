@@ -1,0 +1,1 @@
+--relationships=OPENTARGETS_DRUG_TO_DISEASE="import/rels/ot-drug-disease/ot-drug-disease.header,import/rels/ot-drug-disease/ot-drug-disease.csv.gz"
